@@ -31,18 +31,10 @@ const HeroSection = () => {
             }}
             className="text-xl md:text-1xl lg:text-2xl text-purple-200 max-w-2xl"
           >
-            Hi, I'm Ayush Kumar — a Frontend Developer passionate about crafting
-            elegant user interfaces and interactive experiences. I’ve built
-            dynamic platforms like <strong>NetStream</strong>, an AI-powered
-            movie recommendation system using{" "}
-            <strong>Gemini AI, React.js, Redux Toolkit</strong>, and{" "}
-            <strong>Firebase</strong>, and
-            <strong>FoodVilla</strong>, a live food ordering interface powered
-            by the Swiggy API. My portfolio showcases immersive 3D design using{" "}
-            <strong>Spline</strong>, fluid transitions with{" "}
-            <strong>Framer Motion</strong>, and custom animations using{" "}
-            <strong>GSAP</strong>. I’m dedicated to building performant,
-            mobile-friendly UIs that combine beauty with scalability.
+            Hi, I'm Ayush Kumar — a Frontend Developer with experience at
+            Zintlr. I have knowledge of React.js, Redux Toolkit, Next.js,
+            Tailwind CSS, Framer Motion, and have explored Node.js through
+            personal projects.
           </motion.p>
         </div>
         {/*Right Section */}
