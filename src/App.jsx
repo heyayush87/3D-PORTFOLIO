@@ -1,4 +1,10 @@
 import Header from "./components/Header";
+import HeroSection from "./components/HeroSection";
+import CustomCursor from "./components/CustomCursor";
 export default function App() {
-  return <h1 ><Header/></h1>;
+  return < >
+    <CustomCursor/>
+    <Header />
+    <HeroSection/>
+  </>;
 }

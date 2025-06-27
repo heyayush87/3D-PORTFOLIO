@@ -25,10 +25,10 @@ const Header = () => {
           className=" flex items-center"
         >
           <div className="h-10 w-10 rounded-xl bg-gradient-to-r from-gray-500 to-gray-100 flex items-center justify-center text-purple-600 textxl font-bold mr-3">
-            M
+            A
           </div>
           <span className="text-xl font-bold bg-gradient-to-r from-gray-300 to-gray-100 bg-clip-text text-transparent">
-            MiladiCode
+            Ayush Portfolio
           </span>
         </motion.div>
         {/*Desltop Navigation */}
@@ -142,13 +142,13 @@ const Header = () => {
         <div className="pt-4 border-t border-gray-200 dark:border-gray-700">
           <div className="flex space-x-5">
             <a href="https://github.com/heyayush87">
-              <FiGithub clssName="h-5 w-5 text-gray-300" />
+              <FiGithub className="h-5 w-5 text-gray-300" />
             </a>
             <a href="https://x.com/home">
-              <FiTwitter clssName="h-5 w-5 text-gray-300" />
+              <FiTwitter className="h-5 w-5 text-gray-300" />
             </a>
             <a href="https://www.linkedin.com/in/ayush-kumar-131a2222a/">
-              <FiLinkedin clssName="h-5 w-5 text-gray-300" />
+              <FiLinkedin className="h-5 w-5 text-gray-300" />
             </a>
           </div>
           <button
